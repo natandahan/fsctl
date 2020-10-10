@@ -1,5 +1,5 @@
 ![](https://www.natandahan.com/assets/images/logos/natan.png)
-# natan-cli
+# fsctl - Natan`s CLI
 -----
 Simple CLI Tool for Full Stack development Day to day tasks
 
