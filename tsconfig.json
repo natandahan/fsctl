@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "esModuleInterop": true,
+        "target": "es6",
+        "noImplicitAny": true,
+        "importHelpers": true,
+        "moduleResolution": "node",
+        "outDir": "dist",
+        "baseUrl": ".",
+        "paths": {
+            "@env": ["./src/env"],
+            "*": [
+                "node_modules/*"
+            ]
+        }
+    },
+    "include": [
+        "src/**/*"
+    ],
+    "exclude": [
+        "src/**/*.test.ts"
+    ]
+}
